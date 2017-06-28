@@ -1,0 +1,183 @@
+{
+  "data_lang": "zh-CN",
+  "ga_id": "",
+  "resume_title": "张德雨 - 个人简历",
+  "name": "张德雨",
+  "repo": "https://github.com/zhangdeyu/resume.git",
+  "job_description": ["前端开发", "软件工程硕士"],
+  "contact": {
+    "phone": "13554675336",
+    "email": "imzhangdeyu@foxmail.com",
+    "wechat": {
+      "id": "zhangthunder",
+      "qrcode": "static/wechat.png"
+    },
+    "github": {
+      "id": "zhangdeyu"
+    },
+    "blog": {
+      "url": "https://zhangdeyu.github.io/"
+    }
+  },
+  "links": [{
+    "type": "repo",
+    "url": "https://github.com/zhangdeyu/resume"
+
+  }, {
+    "type": "pdf",
+    "url": "static/zhangdeyu.pdf"
+
+  }
+  ],
+  "education": [
+    {
+      "type": "postgraduate",
+      "name": "华中科技大学",
+      "major": "软件工程",
+      "start": "2016",
+      "end": "2018",
+      "honor": []
+    },
+    {
+      "type": "undergraduate",
+      "name": "武汉大学",
+      "major": "计算机科学与技术",
+      "start": "2012",
+      "end": "2016",
+      "honor": []
+    },
+    {
+      "type": "undergraduate",
+      "name": "华中农业大学",
+      "major": "动物医学",
+      "start": "2011",
+      "end": "2016",
+      "honor": []
+    }
+  ],
+  "language": [{
+    "type": "english",
+    "certificate": [{
+      "type": "CET-4",
+      "full": "710",
+      "score": "563"
+    }, {
+      "type": "CET-6",
+      "full": "710",
+      "score": "460"
+    }],
+    "description": [
+      "能流畅阅读英文专业书籍、文档及其他资料",
+      "可无字幕观看 MOOC 课程、开发者大会等视频",
+      "能够在GitHub、Stack Overflow 等社区正常交流"
+    ]
+  }],
+  "experience": [
+    {
+      "type": "internship",
+      "techtype": "frontend",
+      "place": "百度地图客户端",
+      "start": "2017.04",
+      "end": "至今",
+      "name": "前端开发",
+      "description": [
+        "地图客户端Hybird App开发",
+        "参与地图常规活动开发和地图数据可视化工作"
+      ],
+      "stack": ["React", "Webpack", "Redux", "React-Router", "sass", "gerrit", "es6"]
+    }, 
+    {
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "南京美玉秀秀网络科技有限公司",
+    "start": "2016.01",
+    "end": "2017.03",
+    "name": "前端开发",
+    "description": [
+      "负责美玉秀秀控制台的研发工作",
+      "参与美玉秀秀web App的开发",
+      "负责美玉秀秀数据分析平台的研发工作"
+    ],
+    "stack": ["Webpack", "vue", "vue-Router", "vuex", "sass", "es6", "koa", "AngularJS"]
+  }, {
+    "type": "internship",
+    "techtype": "web开发",
+    "place": "武汉隆大佶电子商务公司",
+    "start": "2014.09",
+    "end": "2015.03",
+    "name": "web 开发",
+    "description": [
+      "负责外卖口袋cms系统的编写工作",
+      "使用codeigniter进行php代码的编写"
+    ],
+    "stack": ["codeigniter", "zepto", "MySQL", "JavaScript"]
+  }, {
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "vue-webpack脚手架",
+    "source": "https://github.com/zhangdeyu/vue-webpack-simple",
+    "description": [
+      "基于vue + webpack + ES6 + stylus + pug的项目快速开发脚手架",
+      "基于webpack2实现打包构建",
+      "使用vue、vue-router进行SPA应用开发"
+    ],
+    "stack": ["vue", "webpack", "es6"]
+  }],
+  "skills": [{
+    "type": "frontend",
+    "item": [{
+      "summary": "`HTML` / `CSS`",
+      "description": [
+        "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画",
+        "熟悉已标准化的 `HTML5` / `CSS3` 新特性，实验项目中能尝试使用未广泛实现的新标准"
+      ]
+    }, {
+      "summary": "`ECMAScript`（`JavaScript`）",
+      "description": [
+        "熟悉 `ECMAScript6`（`JavaScript`）相关语法",
+        "了解 `ECMAScript` 新标准与相关后处理工具并能在项目中使用"
+      ]
+    }, {
+      "summary": "`DOM` / `BOM` 及常见 `Web API`",
+      "description": [
+        "对原生 `DOM` 与 `BOM` 的使用及相关标准有一定的了解，有桌面 / 移动端前端组件的开发经验",
+        "对 `Web Workers` / `Web Components` / `SVG` 等 API 有一定的使用经验",
+        "阅读过 `vue` / `zepto` 源码中的部分实现，了解常见的 Web API **兼容性**问题及其解决方案"
+      ]
+    }, {
+      "summary": "前端工程实践",
+      "description": [
+        "使用 `vue` / `AngularJS` / `React` 编写过大型的SPA，了解 `vue` / `React` 及前端 `MV*` 模型",
+        "在项目中使用过 `JSWebviewBridge` 通信方案，了解js与webview的通信流程",
+        "在项目中使用过 `webpack` / `RequireJS` 等模块化解决方案",
+        "在项目中使用过 `stylus` / `sass` / `postcss`等预处理/后处理工具",
+        "日常使用 `webpack` 或 `gulp` 改进工作流",
+        "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践"
+      ]
+    }]
+  }, {
+    "type": "backend",
+    "item": [{
+      "summary": "`Node.js`",
+      "description": [
+        "能够使用 `Node.js API` / `Koa` 搭建简单的后端程序与数据库交互、渲染模板及提供 `RESTful API`"
+      ]
+    }, {
+      "summary": "其他",
+      "description": [
+        "使用 `nginx` 搭建过简单的服务器",
+        "有使用 `MySQL` 数据库，`Redis` 缓存的经验",
+        "了解 `HTTP`、 `TCP/IP`、 `WebSocket` 等协议"
+      ]
+    }]
+  }, {
+    "type": "miscellaneous",
+    "item": [
+      "三年 Mac 使用经验，熟悉常用命令与配置，能编写简单的 bash 脚本",
+      "了解 `Python`，能实现简单的数据及图像处理工具、自动化脚本、爬虫",
+      "能够使用 `Markdown` 编写得体的中英文文档或论文，具备良好的技术交流能力",
+      "日常使用 `Git` 与 `Sublime Text` / `WebStorm` 进行开发，也乐于尝试新工具"
+    ]
+  }]
+}
