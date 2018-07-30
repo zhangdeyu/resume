@@ -35,7 +35,7 @@
       "name": "华中科技大学",
       "major": "软件工程",
       "start": "2016",
-      "end": "2018",
+      "end": "今",
       "honor": []
     },
     {
@@ -76,9 +76,22 @@
     {
       "type": "internship",
       "techtype": "frontend",
+      "place": "武汉轻氧科技有限公司",
+      "start": "2017.08",
+      "end": "至今",
+      "name": "前端开发",
+      "description": [
+        "负责C端公众号、小程序、Hybird App开发",
+        "负责B端CRM、工单、运维系统的开发"
+      ],
+      "stack": ["Vue", "Webpack", "Vuex", "vue-router", "stylus", "pug", "es6"]
+    },
+    {
+      "type": "internship",
+      "techtype": "frontend",
       "place": "百度地图客户端",
       "start": "2017.04",
-      "end": "至今",
+      "end": "2017.07",
       "name": "前端开发",
       "description": [
         "地图客户端Hybird App开发",
@@ -99,19 +112,8 @@
       "负责美玉秀秀数据分析平台的研发工作"
     ],
     "stack": ["Webpack", "vue", "vue-Router", "vuex", "sass", "es6", "koa", "AngularJS"]
-  }, {
-    "type": "internship",
-    "techtype": "web开发",
-    "place": "外卖口袋",
-    "start": "2014.09",
-    "end": "2015.03",
-    "name": "web 开发",
-    "description": [
-      "负责外卖口袋cms系统的编写工作",
-      "使用codeigniter进行php代码的编写"
-    ],
-    "stack": ["codeigniter", "zepto", "MySQL", "JavaScript"]
-  }, {
+  },
+  {
     "type": "project",
     "techtype": "frontend",
     "project_type": "personal",
